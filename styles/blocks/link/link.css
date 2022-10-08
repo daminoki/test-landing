@@ -1,0 +1,15 @@
+.link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-weight: 600;
+    width: 170px;
+    height: 50px;
+    border: 2px solid transparent;
+    border-radius: 7px;
+
+}
