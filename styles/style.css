@@ -1,4 +1,12 @@
 @import url(./variables.css);
 @import url(./normalize.css);
+@import url(./reset.css);
+@import url(./blocks/page/page.css);
 @import url(./blocks/container/container.css);
 @import url(./blocks/header/header.css);
+@import url(./blocks/description/description.css);
+@import url(./blocks/description/__logo/description__logo.css);
+@import url(./blocks/description/__text/description__text.css);
+@import url(./blocks/description/__img/description__img.css);
+
+
