@@ -1,0 +1,4 @@
+.information-item__column {
+    display: flex;
+    gap: 20px;
+}

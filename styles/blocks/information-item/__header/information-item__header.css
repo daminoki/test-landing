@@ -1,0 +1,7 @@
+.information-item__header {
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 600;
+    margin-bottom: 7px;
+    max-width: 360px;
+}

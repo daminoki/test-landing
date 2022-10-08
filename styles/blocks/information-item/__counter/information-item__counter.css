@@ -1,0 +1,13 @@
+.information-item__counter {
+    background-image: url(../../../../images/counter.svg);
+    min-width: 55px;
+    height: 43px;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    color: #FFF;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 32px;
+}
