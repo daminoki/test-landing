@@ -12,6 +12,7 @@
 @import url(./blocks/contact-us/__text/contact-us__text.css);
 @import url(./blocks/link/link.css);
 @import url(./blocks/link/_outline/link_outline.css);
+@import url(./blocks/link/_full/link_full.css);
 @import url(./blocks/information/information.css);
 @import url(./blocks/information-item/information-item.css);
 @import url(./blocks/information-item/__counter/information-item__counter.css);
@@ -20,7 +21,6 @@
 @import url(./blocks/information-item/__img/information-item__img.css);
 @import url(./blocks/information-item/__column/information-item__column.css);
 @import url(./blocks/information-item/__img/_second-item/information-item__img_second-item.css);
-@import url(./blocks/link/__information/link__information.css);
 @import url(./blocks/footer/footer.css);
 @import url(./blocks/footer/__description/footer__decription.css);
 @import url(./blocks/footer/__text/footer__text.css);
