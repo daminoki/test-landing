@@ -4,3 +4,9 @@
     flex-direction: column;
     align-items: center;
 }
+
+.information .container {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
