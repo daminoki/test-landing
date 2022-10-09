@@ -19,4 +19,10 @@
 @import url(./blocks/information-item/__text/information-item__text.css);
 @import url(./blocks/information-item/__img/information-item__img.css);
 @import url(./blocks/information-item/__column/information-item__column.css);
-
+@import url(./blocks/information-item/__img/_second-item/information-item__img_second-item.css);
+@import url(./blocks/link/__information/link__information.css);
+@import url(./blocks/footer/footer.css);
+@import url(./blocks/footer/__description/footer__decription.css);
+@import url(./blocks/footer/__text/footer__text.css);
+@import url(./blocks/footer/__author/footer__author.css);
+@import url(./blocks/footer/__text/_name/footer__text_name.css);
