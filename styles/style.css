@@ -8,6 +8,7 @@
 @import url(./blocks/description/__logo/description__logo.css);
 @import url(./blocks/description/__text/description__text.css);
 @import url(./blocks/description/__img/description__img.css);
+@import url(./blocks/description/__wrapper/description__wrapper.css);
 @import url(./blocks/contact-us/contact_us.css);
 @import url(./blocks/contact-us/__text/contact-us__text.css);
 @import url(./blocks/link/link.css);
