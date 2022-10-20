@@ -1,4 +1,4 @@
-.decription__img {
+.description__img {
     justify-self: end;
 }
 
@@ -6,5 +6,6 @@
     .description__img {
         grid-row-start: 1;
         grid-row-end: 2;
+        justify-self: center;
     }
 }

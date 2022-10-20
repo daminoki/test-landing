@@ -4,3 +4,9 @@
     align-items: center;
     gap: 25px;
 }
+
+@media screen and (max-width: 425px) {
+    .information-item {
+        flex-direction: column;
+    }
+}

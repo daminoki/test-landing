@@ -1,3 +1,9 @@
 .information-item__img {
     margin-right: 100px;
 }
+
+@media screen and (max-width: 425px) {
+    .information-item__img {
+        margin: 0;
+    }
+}
