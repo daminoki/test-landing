@@ -1,5 +1,11 @@
 .footer__description {
     display: flex;
-    flex-direction: row;
     justify-content: space-between;
+}
+
+@media screen and (max-width: 767px) {
+    .footer__description {
+        flex-direction: column;
+        gap: 26px;
+    }
 }

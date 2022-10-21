@@ -25,5 +25,6 @@
 @import url(./blocks/footer/footer.css);
 @import url(./blocks/footer/__description/footer__decription.css);
 @import url(./blocks/footer/__text/footer__text.css);
+@import url(./blocks/footer/__logo/footer__logo.css);
 @import url(./blocks/footer/__author/footer__author.css);
 @import url(./blocks/footer/__text/_name/footer__text_name.css);

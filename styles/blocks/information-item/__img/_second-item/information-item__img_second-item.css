@@ -2,7 +2,7 @@
     margin-left: 135px;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 767px) {
     .information-item__img_second-item {
         margin: 0;
     }

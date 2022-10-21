@@ -2,7 +2,7 @@
     justify-self: end;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 767px) {
     .description__img {
         grid-row-start: 1;
         grid-row-end: 2;

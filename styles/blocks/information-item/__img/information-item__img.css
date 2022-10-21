@@ -2,8 +2,9 @@
     margin-right: 100px;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 767px) {
     .information-item__img {
         margin: 0;
+        order: 1;
     }
 }

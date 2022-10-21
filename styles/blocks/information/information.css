@@ -11,9 +11,12 @@
     gap: 30px;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 767px) {
     .information {
         padding: 50px 0;
-        display: grid;
+    }
+
+    .information .container {
+        gap: 50px;
     }
 }

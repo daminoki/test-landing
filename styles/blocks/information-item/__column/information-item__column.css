@@ -2,3 +2,10 @@
     display: flex;
     gap: 20px;
 }
+
+@media screen and (max-width: 767px) {
+    .information-item__column {
+        order: 2;
+        flex-direction: column;
+    }
+}

@@ -5,8 +5,9 @@
     gap: 25px;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 767px) {
     .information-item {
         flex-direction: column;
     }
 }
+
